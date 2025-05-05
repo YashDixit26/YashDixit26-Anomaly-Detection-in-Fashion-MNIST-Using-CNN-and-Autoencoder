@@ -1,10 +1,8 @@
-# YashDixit26-Anomaly-Detection-in-Fashion-MNIST-Using-CNN-and-Autoencoder
-
 # 🧠 Anomaly Detection in Fashion MNIST using CNN and Autoencoder
 
 This project focuses on detecting anomalies in the Fashion MNIST dataset using two approaches: a **Convolutional Neural Network (CNN)** for classification and an **Autoencoder** for unsupervised anomaly detection. It explores how deep learning models can be used not only to classify fashion items but also to detect corrupted or unusual patterns that deviate from the norm.
 
-> Developed by: [Your Name] & Mahi
+> Developed by: Yash Dixit & Mahi Attri
 
 ---
 
@@ -170,8 +168,8 @@ During inference, anomalous samples show **high reconstruction error**, enabling
 
 ## 👥 Contributors
 
-- [Your Name]
-- Mahi
+- Yash Dixit
+- Mahi Attri
 
 ---
  
