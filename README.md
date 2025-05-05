@@ -25,8 +25,6 @@ This project focuses on detecting anomalies in the Fashion MNIST dataset using t
 
 ## 📖 Introduction
 
-In the real world, identifying anomalies in image data is crucial for quality control, fraud detection, and safety assurance. Traditional classification models often fail to recognize data that deviates significantly from training examples.
-
 In this project, we aim to:
 - Train a CNN to classify fashion items.
 - Introduce artificial anomalies by applying noise and transformations.
