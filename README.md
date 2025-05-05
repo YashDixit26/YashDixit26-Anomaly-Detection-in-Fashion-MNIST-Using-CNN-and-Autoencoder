@@ -133,8 +133,12 @@ During inference, anomalous samples show **high reconstruction error**, enabling
 
 ### 🧮 Performance Highlights
 
+- CNN achieved high accuracy on classification of normal images with Test Accuracy of **89.7%**.
 - Autoencoder achieved a **ROC-AUC score** indicating effective separation between normal and anomaly.
-- CNN achieved high accuracy on classification of normal images.
+- **ROC-AUC Score**: **0.96**
+- **F1 Score**: **0.88**
+- **Precision**: **0.91** 
+- **Recall**: **0.85**
 - Visual analysis confirms that reconstruction error is significantly higher for anomalies.
 
 ### 📸 Visualizations Included:
@@ -153,7 +157,7 @@ During inference, anomalous samples show **high reconstruction error**, enabling
 - **TensorFlow / Keras**
 - **NumPy & Matplotlib**
 - **Scikit-learn**
-- **Google Colab** (for training and visualization)
+- **Google Colab** 
 
 ---
 
