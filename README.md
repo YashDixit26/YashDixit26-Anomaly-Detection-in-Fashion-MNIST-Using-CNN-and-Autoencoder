@@ -22,8 +22,7 @@ This project focuses on detecting anomalies in the Fashion MNIST dataset using t
 7. [Technologies Used](#technologies-used)
 8. [Future Work](#future-work)
 9. [Contributors](#contributors)
-10. [License](#license)
-
+ 
 ---
 
 ## 📖 Introduction
@@ -175,14 +174,5 @@ During inference, anomalous samples show **high reconstruction error**, enabling
 - Mahi
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-For any queries or collaboration opportunities, feel free to reach out at [your-email@example.com].
+ 
 
